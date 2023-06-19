@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="1.9.2">
+<UserPlugin Name="Dialog Render Issue" Version="0.1.0" Author="Pro Plugins">
+        <ComponentLua FileName="dialogRenderIssue.lua"  />
+</UserPlugin>
+</GMA3>
